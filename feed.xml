@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Travel Hacking &amp; Airline Points Hub</title>
+    <link>https://travel-hacking-points-hub.netlify.app/</link>
+    <description>Verified community directory and updates.</description>
+    <lastBuildDate>Tue, 08 Sep 2026 11:04:45 GMT</lastBuildDate>
+    <atom:link href="https://travel-hacking-points-hub.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
+    <item>
+      <title>Travel Hacking &amp; Airline Points Hub Initial Release</title>
+      <link>https://travel-hacking-points-hub.netlify.app/</link>
+      <pubDate>Tue, 08 Sep 2026 11:04:45 GMT</pubDate>
+      <description>Initial collection of verified communities published.</description>
+    </item>
+  </channel>
+</rss>
