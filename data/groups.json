@@ -91,7 +91,7 @@
     "category": "Open Source AI",
     "memberCount": "140,000+ members",
     "description": "Hub for the open-source AI community discussing Transformers, Diffusers, model weights, and Hugging Face Spaces.",
-    "joinUrl": "https://discord.gg/huggingface",
+    "joinUrl": "https://discuss.huggingface.co",
     "tags": [
       "huggingface",
       "transformers",
@@ -227,7 +227,7 @@
     "category": "AI Engineering",
     "memberCount": "80,000+ members",
     "description": "Community dedicated to building LLM applications with LangChain, LangSmith, and LangGraph agent architectures.",
-    "joinUrl": "https://discord.gg/langchain",
+    "joinUrl": "https://github.com/langchain-ai/langchain/discussions",
     "tags": [
       "langchain",
       "agents",
@@ -261,7 +261,7 @@
     "category": "Machine Learning",
     "memberCount": "90,000+ contributors",
     "description": "Official PyTorch open-source discussions on CUDA acceleration, model architectures, and compiler backends.",
-    "joinUrl": "https://github.com/pytorch/pytorch/discussions",
+    "joinUrl": "https://discuss.pytorch.org",
     "tags": [
       "pytorch",
       "github",
@@ -380,7 +380,7 @@
     "category": "Software Engineering",
     "memberCount": "220,000+ members",
     "description": "A collaborative multi-language developer Discord covering architecture, algorithms, career advice, and live coding.",
-    "joinUrl": "https://discord.gg/theprogrammershangout",
+    "joinUrl": "https://discord.gg/programming",
     "tags": [
       "programming",
       "multi-language",
