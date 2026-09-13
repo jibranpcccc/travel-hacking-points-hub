@@ -4,10 +4,17 @@
     <title>Travel Hacking &amp; Airline Points Hub</title>
     <link>https://travel-hacking-points-hub.netlify.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Tue, 08 Sep 2026 11:04:45 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 08:30:52 GMT</lastBuildDate>
     <atom:link href="https://travel-hacking-points-hub.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-    <item>
+        <item>
+      <title>📅 Today's Fresh Pick: Go Language Official Discord (Discord)</title>
+      <link>https://discord.gg/golang</link>
+      <guid isPermaLink="false">https://travel-hacking-points-hub.netlify.app/#travel-hacking-points-hub-discord-20260913-1-2026-09-13</guid>
+      <pubDate>Sun, 13 Sep 2026 08:30:52 GMT</pubDate>
+      <description>Newly verified community added to Travel Hacking &amp; Airline Points Hub: Real-time Go developers server offering technical support, library showcase, and distributed systems discussions.</description>
+    </item>
+<item>
       <title>Travel Hacking &amp; Airline Points Hub Initial Release</title>
       <link>https://travel-hacking-points-hub.netlify.app/</link>
       <pubDate>Tue, 08 Sep 2026 11:04:45 GMT</pubDate>
