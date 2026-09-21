@@ -4,10 +4,17 @@
     <title>Travel Hacking &amp; Airline Points Hub</title>
     <link>https://travel-hacking-points-hub.netlify.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Sun, 20 Sep 2026 06:02:31 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 06:01:54 GMT</lastBuildDate>
     <atom:link href="https://travel-hacking-points-hub.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                        <item>
+                                            <item>
+      <title>📅 Today's Fresh Pick: Vue Land Community Discord (Discord)</title>
+      <link>https://discord.gg/vue</link>
+      <guid isPermaLink="false">https://travel-hacking-points-hub.netlify.app/#travel-hacking-points-hub-discord-20260921-1-2026-09-21</guid>
+      <pubDate>Mon, 21 Sep 2026 06:01:54 GMT</pubDate>
+      <description>Newly verified community added to Travel Hacking &amp; Airline Points Hub: The official Discord community for Vue.js, Nuxt, Vite, Pinia, and frontend ecosystem tools.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: Next.js Developers Discord (Discord)</title>
       <link>https://discord.gg/nextjs</link>
       <guid isPermaLink="false">https://travel-hacking-points-hub.netlify.app/#travel-hacking-points-hub-discord-20260920-1-2026-09-20</guid>
