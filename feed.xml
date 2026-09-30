@@ -4,10 +4,17 @@
     <title>Travel Hacking &amp; Airline Points Hub</title>
     <link>https://travel-hacking-points-hub.netlify.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Tue, 29 Sep 2026 06:02:14 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 06:15:37 GMT</lastBuildDate>
     <atom:link href="https://travel-hacking-points-hub.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                    <item>
+                                                                        <item>
+      <title>📅 Today's Fresh Pick: r/kubernetes Cloud Native (Reddit)</title>
+      <link>https://www.reddit.com/r/kubernetes/</link>
+      <guid isPermaLink="false">https://travel-hacking-points-hub.netlify.app/#travel-hacking-points-hub-reddit-20260930-1-2026-09-30</guid>
+      <pubDate>Wed, 30 Sep 2026 06:15:37 GMT</pubDate>
+      <description>Newly verified community added to Travel Hacking &amp; Airline Points Hub: Discussions on Kubernetes cluster management, Helm charts, ingress controllers, service meshes, and K8s operators.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: r/devops Practitioners Hub (Reddit)</title>
       <link>https://www.reddit.com/r/devops/</link>
       <guid isPermaLink="false">https://travel-hacking-points-hub.netlify.app/#travel-hacking-points-hub-reddit-20260929-1-2026-09-29</guid>
