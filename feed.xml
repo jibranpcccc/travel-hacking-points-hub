@@ -4,10 +4,17 @@
     <title>Travel Hacking &amp; Airline Points Hub</title>
     <link>https://travel-hacking-points-hub.netlify.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Tue, 06 Oct 2026 06:02:16 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 06:02:09 GMT</lastBuildDate>
     <atom:link href="https://travel-hacking-points-hub.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                            <item>
+                                                                                                <item>
+      <title>📅 Today's Fresh Pick: HashiCorp Discuss Community (Forum)</title>
+      <link>https://discuss.hashicorp.com</link>
+      <guid isPermaLink="false">https://travel-hacking-points-hub.netlify.app/#travel-hacking-points-hub-forum-20261008-1-2026-10-08</guid>
+      <pubDate>Thu, 08 Oct 2026 06:02:09 GMT</pubDate>
+      <description>Newly verified community added to Travel Hacking &amp; Airline Points Hub: Official forum for Terraform modules, Vault secret management, Nomad orchestration, and Consul networking.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: Cloud Native &amp; K8s Network (Telegram)</title>
       <link>https://t.me/cloud_native_hub</link>
       <guid isPermaLink="false">https://travel-hacking-points-hub.netlify.app/#travel-hacking-points-hub-telegram-20261006-1-2026-10-06</guid>
