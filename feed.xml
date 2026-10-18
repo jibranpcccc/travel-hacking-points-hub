@@ -4,10 +4,17 @@
     <title>Travel Hacking &amp; Airline Points Hub</title>
     <link>https://travel-hacking-points-hub.netlify.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Sat, 17 Oct 2026 06:02:02 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 06:02:03 GMT</lastBuildDate>
     <atom:link href="https://travel-hacking-points-hub.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                                            <item>
+                                                                                                                                <item>
+      <title>📅 Today's Fresh Pick: Hacker News Community (Forum)</title>
+      <link>https://news.ycombinator.com</link>
+      <guid isPermaLink="false">https://travel-hacking-points-hub.netlify.app/#travel-hacking-points-hub-forum-20261016-1-2026-10-18</guid>
+      <pubDate>Sun, 18 Oct 2026 06:02:03 GMT</pubDate>
+      <description>Newly verified community added to Travel Hacking &amp; Airline Points Hub: Y Combinator's flagship intellectual community discussing software engineering, science, and startup mechanics.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: Hacker News Community (Forum)</title>
       <link>https://news.ycombinator.com</link>
       <guid isPermaLink="false">https://travel-hacking-points-hub.netlify.app/#travel-hacking-points-hub-forum-20261016-1-2026-10-17</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://travel-hacking-points-hub.netlify.app/#travel-hacking-points-hub-reddit-20260918-1-2026-09-18</guid>
       <pubDate>Fri, 18 Sep 2026 06:16:02 GMT</pubDate>
       <description>Newly verified community added to Travel Hacking &amp; Airline Points Hub: A community dedicated to all things web development, client and server-side architectures, and UI/UX design.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: r/churning Award Travel &amp; Mileage Mastery (Reddit)</title>
-      <link>https://www.reddit.com/r/churning/</link>
-      <guid isPermaLink="false">https://jibranpcccc.github.io/travel-hacking-points-hub/#travel-hacking-points-hub-reddit-20260915-1-2026-09-15</guid>
-      <pubDate>Tue, 15 Sep 2026 11:17:08 GMT</pubDate>
-      <description>Newly verified community added to Travel Hacking Points Hub: The premier community for credit card welcome bonuses, points transfers, award flight redemptions, and hotel loyalty status optimization.</description>
     </item>
   </channel>
 </rss>
