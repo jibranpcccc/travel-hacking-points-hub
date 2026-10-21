@@ -4,10 +4,17 @@
     <title>Travel Hacking &amp; Airline Points Hub</title>
     <link>https://travel-hacking-points-hub.netlify.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Tue, 20 Oct 2026 06:02:41 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 06:02:16 GMT</lastBuildDate>
     <atom:link href="https://travel-hacking-points-hub.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                                                        <item>
+                                                                                                                                            <item>
+      <title>📅 Today's Fresh Pick: Hacker News Community (Forum)</title>
+      <link>https://news.ycombinator.com</link>
+      <guid isPermaLink="false">https://travel-hacking-points-hub.netlify.app/#travel-hacking-points-hub-forum-20261016-1-2026-10-21</guid>
+      <pubDate>Wed, 21 Oct 2026 06:02:16 GMT</pubDate>
+      <description>Newly verified community added to Travel Hacking &amp; Airline Points Hub: Y Combinator's flagship intellectual community discussing software engineering, science, and startup mechanics.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: Hacker News Community (Forum)</title>
       <link>https://news.ycombinator.com</link>
       <guid isPermaLink="false">https://travel-hacking-points-hub.netlify.app/#travel-hacking-points-hub-forum-20261016-1-2026-10-20</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://travel-hacking-points-hub.netlify.app/#travel-hacking-points-hub-discord-20260921-1-2026-09-21</guid>
       <pubDate>Mon, 21 Sep 2026 06:01:54 GMT</pubDate>
       <description>Newly verified community added to Travel Hacking &amp; Airline Points Hub: The official Discord community for Vue.js, Nuxt, Vite, Pinia, and frontend ecosystem tools.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: Next.js Developers Discord (Discord)</title>
-      <link>https://discord.gg/nextjs</link>
-      <guid isPermaLink="false">https://travel-hacking-points-hub.netlify.app/#travel-hacking-points-hub-discord-20260920-1-2026-09-20</guid>
-      <pubDate>Sun, 20 Sep 2026 06:02:31 GMT</pubDate>
-      <description>Newly verified community added to Travel Hacking &amp; Airline Points Hub: Official community Discord for Vercel Next.js developers, Server Components, and App Router architectures.</description>
     </item>
   </channel>
 </rss>
