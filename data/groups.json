@@ -1,5 +1,24 @@
 [
   {
+    "id": "travel-hacking-airline-points-hub-reddit-2",
+    "title": "r/LocalLLaMA Open Models",
+    "platform": "Reddit",
+    "category": "Large Language Models",
+    "memberCount": "260,000+ members",
+    "description": "Leading community for running open weights LLMs locally, quantization (GGUF/AWQ), fine-tuning, and hardware benchmarks.",
+    "joinUrl": "https://www.reddit.com/r/LocalLLaMA/",
+    "tags": [
+      "localllama",
+      "ai",
+      "open-source",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-11-19"
+  },
+  {
     "id": "travel-hacking-airline-points-hub-reddit-1",
     "title": "r/MachineLearning Research",
     "platform": "Reddit",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-11-18"
   },
   {
@@ -549,24 +568,6 @@
     "featured": true,
     "isTodaysPick": false,
     "lastUpdated": "2026-09-13"
-  },
-  {
-    "id": "travel-hacking-airline-points-hub-reddit-2",
-    "title": "r/LocalLLaMA Open Models",
-    "platform": "Reddit",
-    "category": "Large Language Models",
-    "memberCount": "260,000+ members",
-    "description": "Leading community for running open weights LLMs locally, quantization (GGUF/AWQ), fine-tuning, and hardware benchmarks.",
-    "joinUrl": "https://www.reddit.com/r/LocalLLaMA/",
-    "tags": [
-      "localllama",
-      "ai",
-      "open-source",
-      "reddit"
-    ],
-    "verified": true,
-    "featured": true,
-    "isTodaysPick": false
   },
   {
     "id": "travel-hacking-airline-points-hub-reddit-3",
